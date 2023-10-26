@@ -1,0 +1,7 @@
+[submodule "backend-app"]
+    path = backend-app
+    url = https://github.com/UPBear/VirtualPaymonBackend.git
+
+[submodule "frontend-app"]
+    path = frontend-app
+    url = https://github.com/UPBear/VirtualPaymonFrontend.git
