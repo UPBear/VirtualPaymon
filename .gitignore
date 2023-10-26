@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.idea/
+
+# Binaries, dynamic libraries, etc.
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Log files
+*.log
+
+# Go build cache
+**/__pycache__/
+
+# Others
+.swp
+.swa
+swo
+
